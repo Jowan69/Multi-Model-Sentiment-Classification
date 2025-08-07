@@ -14,7 +14,7 @@ An advanced sentiment analysis system that compares multiple machine learning al
 - Class Imbalance Handling: SMOTE and RandomOverSampler implementation
 
 📊 Model Performance Results
-- Best Accuracy: [Add your best model's accuracy]%
+- Best Accuracy: [73.34]%
 - Models Compared: 4 different algorithms
 - Processing Speed: Handles thousands of text samples efficiently
 - Evaluation Metrics: Precision, Recall, F1-Score, Confusion Matrices
@@ -54,7 +54,8 @@ This system can be applied to:
 📧 Contact
 
 Email: georgejowan8@gmail.com
-LinkedIn: [https://github.com/Jowan69]
+
+LinkedIn: [https://www.linkedin.com/in/jowan-george-464602335/]
 
 
 ⭐ Star this repository if it helped you!
