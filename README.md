@@ -51,6 +51,8 @@ This system can be applied to:
 - Class imbalance handling crucial for accurate predictions
 - Ensemble methods provide robust sentiment classification
 
+DataSet:https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
+
 📧 Contact
 
 Email: georgejowan8@gmail.com
