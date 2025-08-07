@@ -51,4 +51,11 @@ This system can be applied to:
 - Class imbalance handling crucial for accurate predictions
 - Ensemble methods provide robust sentiment classification
 
+📧 Contact
+
+Email: georgejowan8@gmail.com
+LinkedIn: [https://github.com/Jowan69]
+
+
+⭐ Star this repository if it helped you!
 
